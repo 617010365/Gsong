@@ -38,6 +38,8 @@
     UIBezierPath *path = [UIBezierPath bezierPathWithRect:rect];
     //排除路径，指定那个部分不能绘制内容
     textContainer.exclusionPaths = @[path];
+    NSLog(@"hehe");
+    
     
     
     // Do any additional setup after loading the view, typically from a nib.
