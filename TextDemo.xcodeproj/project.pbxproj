@@ -15,6 +15,7 @@
 		BC0573441C3273820017D802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0573421C3273820017D802 /* LaunchScreen.storyboard */; };
 		BC05734F1C3273820017D802 /* TextDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC05734E1C3273820017D802 /* TextDemoTests.m */; };
 		BC05735A1C3273820017D802 /* TextDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0573591C3273820017D802 /* TextDemoUITests.m */; };
+		BC0573681C3277520017D802 /* Mole01.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0573671C3277520017D802 /* Mole01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BC0573551C3273820017D802 /* TextDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC0573591C3273820017D802 /* TextDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TextDemoUITests.m; sourceTree = "<group>"; };
 		BC05735B1C3273820017D802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC0573671C3277520017D802 /* Mole01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mole01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				BC0573381C3273820017D802 /* AppDelegate.m */,
 				BC05733A1C3273820017D802 /* ViewController.h */,
 				BC05733B1C3273820017D802 /* ViewController.m */,
+				BC0573671C3277520017D802 /* Mole01.png */,
 				BC05733D1C3273820017D802 /* Main.storyboard */,
 				BC0573401C3273820017D802 /* Assets.xcassets */,
 				BC0573421C3273820017D802 /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 				BC0573441C3273820017D802 /* LaunchScreen.storyboard in Resources */,
 				BC0573411C3273820017D802 /* Assets.xcassets in Resources */,
 				BC05733F1C3273820017D802 /* Main.storyboard in Resources */,
+				BC0573681C3277520017D802 /* Mole01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
